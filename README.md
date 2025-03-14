@@ -32,7 +32,7 @@ Hi, I’m Andres, a passionate and detail-oriented front-end developer with a st
     <a href="https://instagram.com/@danslaruephoto" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@danslaruephoto" height="30" width="40" />
     </a>
-    <a href="/ndrsdeveloper.com" target="blank">
+    <a href="https://ndrsdeveloper.com/" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="ndrsdeveloper.com" height="30" width="40" />
     </a>
 </p>
