@@ -1,7 +1,10 @@
 <img src="https://github.com/user-attachments/assets/be08ecef-ab5d-4a9e-ae79-84176ac8e13e" /> 
 
 
-Hi, I’m Andres, a passionate and detail-oriented front-end developer with a strong focus on creating visually appealing, user-friendly, and responsive web experiences. I specialize in turning design concepts into seamless, interactive interfaces using modern technologies like HTML, CSS, JavaScript, and frameworks such as React.
+# 👋 Hi, I’m Andres Perdomo  
+
+🚀 **Frontend / Full Stack Developer** | React • Node.js • Tailwind • MongoDB  
+🎓 MSc Web Sciences @ TH Köln | Open to opportunities in Frontend & Full Stack Development
 
 
 
