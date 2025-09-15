@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/be08ecef-ab5d-4a9e-ae79-84176ac8e13e" /> 
+<img src="[https://github.com/user-attachments/assets/be08ecef-ab5d-4a9e-ae79-84176ac8e13e](https://github.com/NRDS92/NRDS92/blob/main/Screenshot%202025-09-15%20083303.png)" /> 
 
 
 # 👋 Hi, I’m Andres Perdomo  
