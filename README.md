@@ -1,5 +1,3 @@
-<img src="https://github.com/NRDS92/NRDS92/blob/main/Screenshot%202025-09-15%20083303.png?raw=true" /> 
-
 
 # 👋 Hi, I’m Andres Perdomo  
 
@@ -39,3 +37,6 @@
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="ndrsdeveloper.com" height="30" width="40" />
     </a>
 </p>
+
+
+<img src="https://github.com/NRDS92/NRDS92/blob/main/Screenshot%202025-09-15%20083303.png?raw=true" /> 
