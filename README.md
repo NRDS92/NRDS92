@@ -1,42 +1,82 @@
+# Hi, I'm Andrés Perdomo 👋
 
-# 👋 Hi, I’m Andres Perdomo  
+Frontend Developer with a **product-oriented mindset**, focused on building user-centered web and mobile experiences.
 
-🚀 **Frontend / Full Stack Developer** | React • Node.js • Tailwind • MongoDB  
-🎓 MSc Web Sciences @ TH Köln | Open to opportunities in Frontend & Full Stack Development
+Currently based in Germany and passionate about creating digital products that solve real problems and bring communities together.
 
+---
 
+## 🚀 Current Project
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/>
-   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  
-</p>
+I'm currently building **VECI**, a platform designed to help the Latin American community in Europe discover events, businesses, and cultural experiences in their cities.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/www.linkedin.com/in/ndrs-perdomo" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"     alt="www.linkedin.com/in/ndrs-perdomo" height="30" width="40" />
-    </a>
-    <a href="https://instagram.com/@danslaruephoto" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@danslaruephoto" height="30" width="40" />
-    </a>
-    <a href="https://ndrsdeveloper.com/" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="ndrsdeveloper.com" height="30" width="40" />
-    </a>
-</p>
+The platform aims to solve a real problem:  
+Latin communities abroad are highly fragmented across social media, word-of-mouth, and small local networks. VECI aims to become a central hub for discovering and sharing Latin culture in Europe.
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- React
+- React Native (Expo)
+- JavaScript / TypeScript
+- TailwindCSS
+- Responsive UI development
+
+### Backend (supporting skills)
+- Node.js
+- Express
+- REST APIs
+
+### Databases
+- MongoDB
+- PostgreSQL
+
+### Tools
+- Git / GitHub
+- Docker
+- Postman
+- Figma
+
+---
+
+## 🧠 Engineering Approach
+
+I enjoy working at the intersection of **technology and product**, focusing on:
+- building intuitive user experiences
+- translating product ideas into functional interfaces
+- designing scalable frontend architectures
+- collaborating closely with product and design teams
+
+---
+
+## 📚 Currently Learning:
+- Advanced TypeScript
+- Mobile product development with React Native
+- Testing strategies for modern applications
+- CI/CD workflows
+- System design fundamentals
+
+---
+
+## 🌍 Interests
+
+Outside of coding I enjoy:
+- strength training and fitness
+- learning new technologies
+- building digital products from scratch
+- exploring ideas related to startups and product development
+
+---
+
+## 📫 Connect With Me:
+LinkedIn  
+https://www.linkedin.com/in/ndrs-perdomo
+Portfolio
+https://ndrsdeveloper.com/
+---
+
 
 
 <img src="https://github.com/NRDS92/NRDS92/blob/main/Screenshot%202025-09-15%20083303.png?raw=true" /> 
